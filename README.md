@@ -1,2 +1,3 @@
 # F-Sketch
-F-Sketch is a sketching techniqe for dimesion reduction of categorical data by mataining hamming similarity.
+F-Sketch is dimension reduction technique for categorical data.
+This F-Sketch repository contains juputer notebooks for F-Sketch, Feature Hashing and Sign Random Projection(SimHash)
